@@ -1,0 +1,41 @@
+[ {
+  "uid" : "13f5ad7593dbca5a",
+  "name" : "test_baidu",
+  "time" : {
+    "start" : 1573797391776,
+    "stop" : 1573797397295,
+    "duration" : 5519
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5a2cf27d632bfc6",
+  "name" : "test_radio",
+  "time" : {
+    "start" : 1573797397299,
+    "stop" : 1573797402841,
+    "duration" : 5542
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9362facb9883a02",
+  "name" : "test_input",
+  "time" : {
+    "start" : 1573797402845,
+    "stop" : 1573797407174,
+    "duration" : 4329
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "848c063f46fa6fb7",
+  "name" : "test_checkbox",
+  "time" : {
+    "start" : 1573797407178,
+    "stop" : 1573797414889,
+    "duration" : 7711
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

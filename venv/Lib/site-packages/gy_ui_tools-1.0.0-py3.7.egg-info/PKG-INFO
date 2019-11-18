@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: gy-ui-tools
+Version: 1.0.0
+Summary: to simplify auto test
+Home-page: https://github.com/xuepl/gy-ui-tool
+Author: xuepl
+Author-email: xuepl@guoyasoft.com
+License: MIT Licence
+Description: A init package,to simplify develope auto test
+Keywords: init,auto-test,ui
+Platform: python

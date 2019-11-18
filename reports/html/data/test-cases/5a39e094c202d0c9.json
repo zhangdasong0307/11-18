@@ -1,0 +1,140 @@
+{
+  "uid" : "5a39e094c202d0c9",
+  "name" : "test_radio",
+  "fullName" : "test_case.demo.test_baidu#test_radio",
+  "historyId" : "a88860988dd9dc8fe286ad70ecb35192",
+  "time" : {
+    "start" : 1573790905938,
+    "stop" : 1573790911438,
+    "duration" : 5500
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1573790889987,
+      "stop" : 1573790899889,
+      "duration" : 9902
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "34edb85a93a622ff",
+      "name" : "打开网址： http://ui.yansl.com/#/radio",
+      "source" : "34edb85a93a622ff.png",
+      "type" : "image/png",
+      "size" : 20057
+    }, {
+      "uid" : "db243034872a9d07",
+      "name" : "定位元素 xpath=>//*[@id='form']/form/div[1]/div/input[2]",
+      "source" : "db243034872a9d07.png",
+      "type" : "image/png",
+      "size" : 28027
+    }, {
+      "uid" : "889318889166de9c",
+      "name" : "点击",
+      "source" : "889318889166de9c.png",
+      "type" : "image/png",
+      "size" : 28462
+    }, {
+      "uid" : "342ed34f1fba825d",
+      "name" : "定位元素 xpath=>//*[@id='form']/form/div[2]/div/div/label[3]/span[1]/span",
+      "source" : "342ed34f1fba825d.png",
+      "type" : "image/png",
+      "size" : 28462
+    }, {
+      "uid" : "343c691d6dce2051",
+      "name" : "点击",
+      "source" : "343c691d6dce2051.png",
+      "type" : "image/png",
+      "size" : 28116
+    }, {
+      "uid" : "3c58f295ba716133",
+      "name" : "定位元素 xpath=>//*[@id='form']/form/div[3]/div/div/label[2]/span",
+      "source" : "3c58f295ba716133.png",
+      "type" : "image/png",
+      "size" : 28116
+    }, {
+      "uid" : "9818908a462b6cfe",
+      "name" : "点击",
+      "source" : "9818908a462b6cfe.png",
+      "type" : "image/png",
+      "size" : 28179
+    }, {
+      "uid" : "abc5b87591751a4b",
+      "name" : "log",
+      "source" : "abc5b87591751a4b.txt",
+      "type" : "text/plain",
+      "size" : 595
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 8
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1573790923691,
+      "stop" : 1573790926595,
+      "duration" : 2904
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.demo"
+  }, {
+    "name" : "suite",
+    "value" : "test_baidu"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-2UAMQE7"
+  }, {
+    "name" : "thread",
+    "value" : "18012-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.demo.test_baidu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a39e094c202d0c9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,116 @@
+{
+  "uid" : "17c9ab9b3857d3f5",
+  "name" : "test_baidu",
+  "fullName" : "test_case.demo.test_baidu#test_baidu",
+  "historyId" : "2416bb2b1e2e94a8845e63948540df8d",
+  "time" : {
+    "start" : 1573790899893,
+    "stop" : 1573790905933,
+    "duration" : 6040
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1573790889987,
+      "stop" : 1573790899889,
+      "duration" : 9902
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9448f4f4123aa298",
+      "name" : "打开网址： http://www.baidu.com",
+      "source" : "9448f4f4123aa298.png",
+      "type" : "image/png",
+      "size" : 6445
+    }, {
+      "uid" : "e5f2666109aca728",
+      "name" : "定位元素 id=>kw",
+      "source" : "e5f2666109aca728.png",
+      "type" : "image/png",
+      "size" : 44491
+    }, {
+      "uid" : "c0c27cfb36d070fa",
+      "name" : "输入： 手机",
+      "source" : "c0c27cfb36d070fa.png",
+      "type" : "image/png",
+      "size" : 20057
+    }, {
+      "uid" : "564df68792023529",
+      "name" : "log",
+      "source" : "564df68792023529.txt",
+      "type" : "text/plain",
+      "size" : 211
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1573790923691,
+      "stop" : 1573790926595,
+      "duration" : 2904
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.demo"
+  }, {
+    "name" : "suite",
+    "value" : "test_baidu"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-2UAMQE7"
+  }, {
+    "name" : "thread",
+    "value" : "18012-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.demo.test_baidu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "17c9ab9b3857d3f5.json",
+  "parameterValues" : [ ]
+}

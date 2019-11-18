@@ -1,0 +1,7 @@
+INFO     tools.report.log_tool:log_tool.py:34 打开网址： http://ui.yansl.com/#/input
+INFO     tools.report.log_tool:log_tool.py:34 定位元素 xpath=>//*[@id='form']/form/div[1]/div/input
+INFO     tools.report.log_tool:log_tool.py:34 输入： 遮天
+INFO     tools.report.log_tool:log_tool.py:34 定位元素 xpath=>//*[@id="form"]/form/div[2]/div/input
+INFO     tools.report.log_tool:log_tool.py:34 输入： zhetian
+INFO     tools.report.log_tool:log_tool.py:34 定位元素 xpath=>//*[@id="form"]/form/div[3]/div/textarea
+INFO     tools.report.log_tool:log_tool.py:34 输入： 完美世界

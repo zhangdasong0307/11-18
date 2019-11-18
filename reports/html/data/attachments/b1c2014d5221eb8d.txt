@@ -1,0 +1,7 @@
+INFO     tools.report.log_tool:log_tool.py:34 打开网址： http://ui.yansl.com/#/radio
+INFO     tools.report.log_tool:log_tool.py:34 定位元素 xpath=>//*[@id='form']/form/div[1]/div/input[2]
+INFO     tools.report.log_tool:log_tool.py:34 点击
+INFO     tools.report.log_tool:log_tool.py:34 定位元素 xpath=>//*[@id='form']/form/div[2]/div/div/label[3]/span[1]/span
+INFO     tools.report.log_tool:log_tool.py:34 点击
+INFO     tools.report.log_tool:log_tool.py:34 定位元素 xpath=>//*[@id='form']/form/div[3]/div/div/label[2]/span
+INFO     tools.report.log_tool:log_tool.py:34 点击

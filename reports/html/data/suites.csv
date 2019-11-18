@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_case.demo.test_baidu#test_baidu","5519",""
+"passed","test_case.demo.test_baidu#test_radio","5542",""
+"passed","test_case.demo.test_baidu#test_input","4329",""
+"passed","test_case.demo.test_baidu#test_checkbox","7711",""

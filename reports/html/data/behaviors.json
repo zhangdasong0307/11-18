@@ -1,0 +1,53 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_baidu",
+    "uid" : "13f5ad7593dbca5a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1573797391776,
+      "stop" : 1573797397295,
+      "duration" : 5519
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_radio",
+    "uid" : "e5a2cf27d632bfc6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1573797397299,
+      "stop" : 1573797402841,
+      "duration" : 5542
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_input",
+    "uid" : "e9362facb9883a02",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1573797402845,
+      "stop" : 1573797407174,
+      "duration" : 4329
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_checkbox",
+    "uid" : "848c063f46fa6fb7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1573797407178,
+      "stop" : 1573797414889,
+      "duration" : 7711
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

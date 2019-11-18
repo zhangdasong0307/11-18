@@ -1,0 +1,57 @@
+2019-11-15 08:38:38,583 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com
+2019-11-15 08:39:56,393 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com
+2019-11-15 08:39:57,167 - tools.report.log_tool - INFO - id=>kw 中输入： 手机
+2019-11-15 10:09:34,698 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com
+2019-11-15 10:09:37,410 - tools.report.log_tool - INFO - id=>kw 中输入： 手机
+2019-11-15 10:55:46,200 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio
+2019-11-15 10:55:50,376 - tools.report.log_tool - INFO - 点击： XPATH=//input[@type='radio'][2]
+2019-11-15 10:56:42,252 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio
+2019-11-15 10:56:46,221 - tools.report.log_tool - INFO - 点击： XPATH=//input[@type='radio'][2]
+2019-11-15 10:57:42,116 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio
+2019-11-15 10:57:46,129 - tools.report.log_tool - INFO - 点击： XPATH=//*[@id='form']/form/div[1]/div/input[2]
+2019-11-15 11:04:09,587 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio
+2019-11-15 11:04:13,630 - tools.report.log_tool - INFO - 点击： XPATH=//*[@id='form']/form/div[1]/div/input[2]
+2019-11-15 11:05:53,206 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio
+2019-11-15 11:05:56,970 - tools.report.log_tool - INFO - 点击： XPATH=>//*[@id='form']/form/div[1]/div/input[2]
+2019-11-15 11:06:42,970 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio
+2019-11-15 11:06:47,313 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id='form']/form/div[1]/div/input[2]
+2019-11-15 11:06:48,258 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id='form']/form/div[2]/label
+2019-11-15 11:06:49,145 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id='form]/form/div[3]/div/div/label[1]/span
+2019-11-15 11:09:02,981 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio
+2019-11-15 11:09:07,324 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id='form']/form/div[1]/div/input[2]
+2019-11-15 11:09:08,182 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id='form']/form/div[2]/label
+2019-11-15 11:09:09,080 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id='form]/form/div[3]/div/div/label[1]/span
+2019-11-15 11:12:13,990 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio
+2019-11-15 11:12:18,249 - tools.report.log_tool - INFO - 点击： xpath=>//label[text()='纯单选框']/../div/input[1]
+2019-11-15 11:12:19,127 - tools.report.log_tool - INFO - 点击： xpath=>//label[text()='单选框2']/../div/input[1]//input
+2019-11-15 11:13:20,332 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio
+2019-11-15 11:13:22,558 - tools.report.log_tool - INFO - 点击： xpath=>//label[text()='纯单选框']/../div/input[1]
+2019-11-15 11:13:23,745 - tools.report.log_tool - INFO - 点击： xpath=>//label[text()='单选框2']/../div/input[1]//input
+2019-11-15 11:15:24,682 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio
+2019-11-15 11:15:26,590 - tools.report.log_tool - INFO - 点击： xpath=>//label[text()='纯单选框']/../div/input[1]
+2019-11-15 11:15:27,504 - tools.report.log_tool - INFO - 点击： xpath=>//label[text()='单选框2']/../div/label[1]//input
+2019-11-15 11:16:22,942 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio
+2019-11-15 11:16:25,095 - tools.report.log_tool - INFO - 点击： xpath=>//label[text()='纯单选框']/../div/input[1]
+2019-11-15 11:16:26,138 - tools.report.log_tool - INFO - 点击： xpath=>//label[text()='单选框2']/../div/label[1]//input
+2019-11-15 11:19:08,444 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio
+2019-11-15 11:19:10,793 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id='form']/form/div[1]/div/input[2]
+2019-11-15 11:19:11,877 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id='form']/form/div[2]/div/div/label[3]/span[1]/span
+2019-11-15 11:19:12,754 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id='form']/form/div[3]/div/div/label[2]/span
+2019-11-15 11:19:43,124 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio
+2019-11-15 11:19:44,905 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id='form']/form/div[1]/div/input[2]
+2019-11-15 11:19:45,788 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id='form']/form/div[2]/div/div/label[3]/span[1]/span
+2019-11-15 11:19:46,697 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id='form']/form/div[3]/div/div/label[2]/span
+2019-11-15 11:27:40,696 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/input
+2019-11-15 11:27:42,570 - tools.report.log_tool - INFO - xpath=>//*[@id='form']/form/div[1]/div/input 中输入： 遮天
+2019-11-15 11:27:43,670 - tools.report.log_tool - INFO - xpath=>//*[@id="form"]/form/div[2]/div/input 中输入： zhetian
+2019-11-15 11:27:44,624 - tools.report.log_tool - INFO - xpath=>//*[@id="form"]/form/div[3]/div/textarea 中输入： 完美世界
+2019-11-15 11:38:38,804 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/checkbox
+2019-11-15 11:38:40,844 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id="form"]/form/div[1]/div/input[1]
+2019-11-15 11:38:42,037 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id="form"]/form/div[2]/div/div/label[2]/span[1]/span
+2019-11-15 11:40:55,644 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/checkbox
+2019-11-15 11:40:57,685 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id="form"]/form/div[1]/div/input[1]
+2019-11-15 11:40:58,614 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id="form"]/form/div[2]/div/div/label[2]/span[1]/span
+2019-11-15 11:40:59,551 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id="form"]/form/div[3]/div/div[2]/label[1]/span[1]/span
+2019-11-15 11:41:00,460 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id="form"]/form/div[3]/div/div[2]/label[2]/span[1]/span
+2019-11-15 11:41:01,363 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id="form"]/form/div[4]/div/div/label[3]/span
+2019-11-15 11:41:02,238 - tools.report.log_tool - INFO - 点击： xpath=>//*[@id="form"]/form/div[4]/div/div/label[4]/span
